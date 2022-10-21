@@ -1,0 +1,128 @@
+[
+  {
+    "order": 1,
+    "id": "bbparry",
+    "game": "Bloodborne",
+    "answers": ["bloodborne", "blood"]
+  },
+  {
+    "order": 2,
+    "id": "castlevania",
+    "game": "Castlevania: Symphony of the Night",
+    "answers": ["castlevania", "symphony", "symphony of the night"]
+  },
+  {
+    "order": 3,
+    "id": "d2portal",
+    "game": "Diablo II",
+    "answers": ["diablo", "d2"]
+  },
+  {
+    "order": 4,
+    "id": "discoely",
+    "game": "Disco Elysium",
+    "answers": ["elysium", "disco elysium", "disco"]
+  },
+  {
+    "order": 5,
+    "id": "dorya",
+    "game": "Tekken 7",
+    "answers": ["tekken", "tekken 7"]
+  },
+  {
+    "order": 6,
+    "id": "exalt", 
+    "game": "Path of Exile",
+    "answers": ["path of exile", "poe"]
+  },
+  {
+    "order": 7,
+    "id": "halosword",
+    "game": "Halo 2",
+    "answers": ["halo", "halo2"]
+  },
+  {
+    "order": 8,
+    "id": "hlaccess",
+    "game": "Half-Life",
+    "answers": ["half life", "hl"]
+  },
+  {
+    "order": 9,
+    "id": "impressive",
+    "game": "Quake 3",
+    "answers": ["quake"]
+  },
+  {
+    "order": 10,
+    "id": "jillsand",
+    "game": "Resident Evil",
+    "answers": ["resident"]
+  },
+  {
+    "order": 11,
+    "id": "l4dalert",
+    "game": "Left 4 Dead",
+    "answers": ["l4d", "l4d2", "left for dead"]
+  },
+  {
+    "order": 12,
+    "id": "meatboy",
+    "game": "Super Meat Boy",
+    "answers": ["meat boy", "super meat boy"]
+  },
+  {
+    "order": 13,
+    "id": "mw2lvl",
+    "game": "Call of Duty: Modern Warfare 2",
+    "answers": ["mw2", "cod mw2", "call of duty"]
+  },
+  {
+    "order": 14,
+    "id": "nirnroot",
+    "game": "The Elder Scrolls V: Skyrim",
+    "answers": ["skyrim", "elder scrolls", "the elder scrolls"]
+  },
+  {
+    "order": 15,
+    "id": "owkill",
+    "game": "Overwatch",
+    "answers": ["ow", "over watch"]
+  },
+  {
+    "order": 16,
+    "id": "payday2cloak",
+    "game": "Payday 2",
+    "answers": ["payday 2", "payday"]
+  },
+  {
+    "order": 17,
+    "id": "tf2domi",
+    "game": "Team Fortress 2",
+    "answers": ["tf2", "team fortress", "team fortress 2"]
+  },
+  {
+    "order": 18,
+    "id": "wololo",
+    "game": "Age of Empires II",
+    "answers": ["aoe2", "age of empires"]
+  },
+  {
+    "order": 19,
+    "id": "wowstealth",
+    "game": "World of Warcraft",
+    "answers": ["wow", "warcraft", "world of warcraft"]
+  },
+  {
+    "order": 20,
+    "id": "zeldasecret",  
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "answers": ["ocarina of time", "elda", "legend of zelda"]
+  },
+  {
+    "order": 21,
+    "id": "3dpinball",
+    "game": "3D Pinball Space Cadet",
+    "answers": ["pinball", "Space Cadet", "3d pinball"]
+  }
+]
